@@ -1,7 +1,7 @@
 {
     "name": "user-app",
-    "version": "100.2.6",
-    "description": "Savannah DMS User app",
+    "version": "1.0.0",
+    "description": "Corelytics User app",
     "license": "BSD-3-Clause",
     "private": true,
     "author": {
