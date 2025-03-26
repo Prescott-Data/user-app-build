@@ -1,7 +1,7 @@
 {
     "name": "user-app",
     "version": "1.0.0",
-    "description": "Corelytics User Management app",
+    "description": "SIMS User Management app",
     "license": "BSD-3-Clause",
     "private": true,
     "author": {
